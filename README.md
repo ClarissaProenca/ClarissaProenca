@@ -1,7 +1,4 @@
-- Olá, bem vindo!
-- Aluna de programação full-stack no IBMEC Centro RJ
-- 26 anos, carioca
-- Formada em Design na UFRJ 
+# Olá, bem vindo! :grin:
 
 <!---
 ClarissaProenca/ClarissaProenca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
